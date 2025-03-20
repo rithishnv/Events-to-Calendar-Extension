@@ -12,8 +12,6 @@
 **Features**
 
 =>Extract Event Details: Extracts event details like title, date, start time, end time, location, and description from text using the Gemini API.
-=>Fill Missing Fields: When fields are missing, the extension generates MCQs that users can answer to complete the event details.
-
-=>Google Calendar Integration: Add the event directly to the user’s Google Calendar (OAuth integration via a secure backend).
-
+=>Fill Missing Fields: When fields are missing, the extension generates MCQs that users can answer to complete the event details.      
+=>Google Calendar Integration: Add the event directly to the user’s Google Calendar (OAuth integration via a secure backend).    
 =>Proxy Server for Security: API keys (Gemini and Google) are securely handled on the backend, avoiding exposure in the frontend (extension).
